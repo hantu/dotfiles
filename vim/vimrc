@@ -1,0 +1,13 @@
+"
+" vimrc
+"
+" Andy Goh <andy@goh.my>
+"
+
+" Enable syntax highlighting
+syntax on
+
+" Set background
+"set background=light
+"set background=dark
+
