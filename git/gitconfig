@@ -1,0 +1,15 @@
+#
+# gitconfig
+# 
+# Andy Goh <andy@goh.my>
+#
+
+[user]
+  name = hantu
+  email = andy@goh.my
+[color]
+  branch = auto
+  diff = auto
+  status = auto
+  ui = auto
+
